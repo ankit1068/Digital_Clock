@@ -1,5 +1,5 @@
 # Digital_Clock
-# Digital Clock
+
 
 Welcome to the Digital Clock project! This is a simple yet functional digital clock application that displays the current time in a user-friendly format. It is built using HTML, CSS, and JavaScript.
 
@@ -28,7 +28,7 @@ To run this project, you need:
 
 2. Navigate to the project directory:
    ```bash
-   cd digital-clock
+   cd digital_clock
    ```
 
 3. Open the `index.html` file in your preferred web browser.
@@ -49,24 +49,8 @@ To run this project, you need:
 
 ---
 
-## Contributing
-Contributions are welcome! If you'd like to enhance the project or fix any issues:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
 
----
+ 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
